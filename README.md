@@ -93,7 +93,10 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
 
   <h3>Flow of Project</h3>
 
-  <p style="text-align:center">↓</p>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Downward Arrow</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
   
 
 
