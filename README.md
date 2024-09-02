@@ -101,7 +101,7 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
 
   <h3 align= "center">Analysis of tags</h3>
   <center>
-        <ul>
+        <ul align= "center">
             <li>Item 1</li>
             <li>Item 2</li>
             <li>Item 3</li>
