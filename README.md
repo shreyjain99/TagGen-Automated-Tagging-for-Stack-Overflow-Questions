@@ -93,13 +93,26 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
 
   <h3>Flow of Project</h3>
 
-  <h3 align= "center">EDA: Data Loading</h3>
+  <h3 align= "center">Data Loading</h3>
 
   <div align= "center">|</div>
   <div align= "center">|</div>
   <div align= "center">\/</div>
 
-  <h3 align= "center">EDA: Data Loading</h3>
+  <h3 align= "center">Analysis of tags</h3>
+  <center>
+        <ul>
+            <li>Item 1</li>
+            <li>Item 2</li>
+            <li>Item 3</li>
+        </ul>
+    </center>
+
+  <div align= "center">|</div>
+  <div align= "center">|</div>
+  <div align= "center">\/</div>
+
+  <h3 align= "center">Data Preprocessing</h3>
 
  
 
