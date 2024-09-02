@@ -96,7 +96,7 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
   <h5 align= "center">EDA: Data Loading</h5>
 
   <div align= "center">|</div>
-  <div align= "center">|</div>
+
   <div align= "center">\/</div>
 
  
