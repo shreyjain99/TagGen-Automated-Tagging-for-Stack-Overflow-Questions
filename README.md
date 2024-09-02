@@ -95,7 +95,7 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
 
   <div align= "center">|</div>
   <div align= "center">|</div>
-  <h5 align= "center">\/</h2>
+  <div align= "center">\/</div>
 
  
 
