@@ -93,13 +93,13 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
 
   <h3>Flow of Project</h3>
 
-  <h2 align= "center"><strong>Data Loading</strong>strong</h2>
+  <h3 align= "center"><strong>Data Loading</strong></h3>
 
   <div align= "center">|</div>
   <div align= "center">|</div>
   <div align= "center">\/</div>
 
-  <h2 align= "center">Analysis of tags</h2>
+  <h3 align= "center">Analysis of tags</h3>
   <h5 align= "center"> - Total number of unique tags </h5>
   <h5 align= "center"> - Number of times a tag appeared </h5>
   <h5 align= "center"> - Tags Per Question </h5>
@@ -110,7 +110,7 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
   <div align= "center">|</div>
   <div align= "center">\/</div>
 
-  <h2 align= "center">Data Preprocessing (Natural Language Processing)</h2>
+  <h3 align= "center">Data Preprocessing (Natural Language Processing)</h3>
   <h5 align= "center"> - Separate out code-snippets from Body </h5>
   <h5 align= "center"> - Remove Spcial characters from Question title and description </h5>
   <h5 align= "center"> - Remove stop words (Except 'C') </h5>
@@ -121,7 +121,7 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
   <div align= "center">|</div>
   <div align= "center">\/</div>
 
-  <h2 align= "center">Machine Learning Models</h2>
+  <h3 align= "center">Machine Learning Models</h3>
   <h5 align= "center"> - Converting tags for multilabel problems  </h5>
   <h5 align= "center"> - Split the data into test and train (80:20)  </h5>
   <h5 align= "center"> - Featurizing data (TFIDF FEATURES) </h5>
