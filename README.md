@@ -100,17 +100,32 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
   <div align= "center">\/</div>
 
   <h3 align= "center">Analysis of tags</h3>
-  <h5 align= "center"> - item 1</h5>
-  <h5 align= "center"> - item 2</h5>
-  <h5 align= "center"> - item 3</h5>
+  <h5 align= "center"> - Total number of unique tags </h5>
+  <h5 align= "center"> - Number of times a tag appeared </h5>
+  <h5 align= "center"> - Tags Per Question </h5>
+  <h5 align= "center"> - Most Frequent Tags </h5>
+  <h5 align= "center"> - The top 20 tags </h5>
 
   <div align= "center">|</div>
   <div align= "center">|</div>
   <div align= "center">\/</div>
 
-  <h3 align= "center">Data Preprocessing</h3>
+  <h3 align= "center">Data Preprocessing (Natural Language Processing)</h3>
+  <h5 align= "center"> - Separate out code-snippets from Body </h5>
+  <h5 align= "center"> - Remove Spcial characters from Question title and description </h5>
+  <h5 align= "center"> - Remove stop words (Except 'C') </h5>
+  <h5 align= "center"> - Convert all the characters into small letters </h5>
+  <h5 align= "center"> - Use SnowballStemmer to stem the words </h5>
 
- 
+  <div align= "center">|</div>
+  <div align= "center">|</div>
+  <div align= "center">\/</div>
+
+  <h3 align= "center">Machine Learning Models</h3>
+  <h5 align= "center"> - Converting tags for multilabel problems  </h5>
+  <h5 align= "center"> - Split the data into test and train (80:20)  </h5>
+  <h5 align= "center"> - Featurizing data (TFIDF FEATURES) </h5>
+  <h5 align= "center"> - Applying Logistic Regression with OneVsRest Classifier </h5>
 
 
   
