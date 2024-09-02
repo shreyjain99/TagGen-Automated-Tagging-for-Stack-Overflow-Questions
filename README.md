@@ -93,8 +93,8 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
 
   <h3>Flow of Project</h3>
 
-  <h5 align= "center">|</h2>
-  <h5 align= "center">|</h2>
+  <div align= "center">|</div>
+  <div align= "center">|</div>
   <h5 align= "center">\/</h2>
 
  
