@@ -93,7 +93,9 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
 
   <h3>Flow of Project</h3>
 
-  <p>Right arrow: <i class="arrow right"></i></p>
+  <p>Downward Arrow: ↓</p>
+  <p>Downward Arrow (HTML entity): &darr;</p>
+
 
   
 </body>
