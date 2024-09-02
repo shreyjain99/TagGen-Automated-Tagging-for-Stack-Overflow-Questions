@@ -99,7 +99,7 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
   <div align= "center">|</div>
   <div align= "center">\/</div>
 
-  <h3 align= "center">Analysis of tags</h3>
+  <h3 align= "center"><strong>Analysis of tags</strong></h3>
   <h5 align= "center"> - Total number of unique tags </h5>
   <h5 align= "center"> - Number of times a tag appeared </h5>
   <h5 align= "center"> - Tags Per Question </h5>
