@@ -93,24 +93,11 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
 
   <h3>Flow of Project</h3>
 
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Downward Arrow</title>
-    <style>
-        .arrow-down {
-            width: 0;
-            height: 0;
-            border-left: 10px solid transparent;
-            border-right: 10px solid transparent;
-            border-top: 10px solid black;
-        }
-    </style>
-</head>
-<body>
-    <div class="arrow-down"></div>
-</body>
-  
+  <h2 align= "center">|</h2>
+  <h2 align= "center">|</h2>
+  <h2 align= "center">\/</h2>
+
+ 
 
 
   
