@@ -81,8 +81,8 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
 <strong>Performance metrics :</strong>
 </p>
 <ol>
-<li>Mean Absolute percentage error</li>
-<li>Mean Squared error</li>
+<li>Micro-Averaged F1-Score (Mean F Score) </li>
+<li>Hamming loss</li>
 </ol>
 
 <hr width="100%" size="2">
@@ -91,34 +91,27 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
 
 <body>
 
-  <h3>Summary</h3>
+  <h3>Flow of Project</h3>
 
-  <h4>Data Processing</h4>
-    <p>The project begins with data cleaning and the removal of outliers through univariate analysis of key features. This step ensures that the data used for modeling is both accurate and relevant.</p>
+  <p>Right arrow: <i class="arrow right"></i></p>
 
-  <h4>Clustering and Region Division</h4>
-    <p>Following data cleaning, the city is divided into 40 regions based on clustering techniques that consider both distance and time intervals. This division allows for a more granular and accurate prediction of taxi demand across the city.</p>
-
-  <h4>Prediction Framework</h4>
-    <p>For each region, the data is broken down into 10-minute time intervals, and the number of pickups within each interval is predicted. The modeling process begins with baseline models, including moving averages, moving weighted averages, and exponential averages, which serve as simple predictors of demand.</p>
-
-   <h4>Advanced Modeling</h4>
-    <p>The project then advances to more sophisticated machine learning models, including linear regression, Random Forest regressor, and XGBoost regressor. These models are employed to enhance prediction accuracy by leveraging the complex relationships in the data.</p>
-
-  <p>The final output of the project is a robust predictive model that can help taxi drivers optimize their routes and improve their earnings by forecasting the most promising areas for pickups in real-time.</p>
-
+  
 </body>
 
 <hr width="100%" size="2">
 <br>
 
+<div align="center">
+  <img height="400" src="https://github.com/shreyjain99/TagGen-Automated-Tagging-for-Stack-Overflow-Questions/blob/main/src%20files/frequent%20tags.png"/>
+</div>
+
 <p>
 <strong>Future Scope :</strong>
 </p>
 <ol>
-<li>Incorporate fourier transform features as features into regression models </li>
-<li>Perform hyperparameter tuning for regression models</li>
-<li>Try more regression models as well as artificial neural nets (ann)</li>
+<li>Use bag of words upto 4 grams and compute the micro f1 score with Logistic regression(OnevsRest) </li>
+<li>Perform hyperparameter tuning on alpha (or lambda) for Logistic regression to improve the performance using GridSearch</li>
+<li>Try OneVsRestClassifier with Linear-SVM (SGDClassifier with loss-hinge)</li>
 </ol>
 
 <hr width="100%" size="2">
