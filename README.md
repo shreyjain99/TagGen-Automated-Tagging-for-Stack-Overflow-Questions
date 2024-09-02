@@ -1,4 +1,3 @@
-# TagGen-Automated-Tagging-for-Stack-Overflow-Questions
 
 <h2 align= "center"><em>TagGen: Automated Tagging for Stack Overflow Questions</em></h2>
 
@@ -30,7 +29,7 @@
 
 <p>
 <strong>Get the data from :</strong> https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/data
-The data is from facebook recruiting prediction competition hosted on kaggle.
+<br>The data is from facebook recruiting prediction competition hosted on kaggle.
 </p>
 
 <br>
