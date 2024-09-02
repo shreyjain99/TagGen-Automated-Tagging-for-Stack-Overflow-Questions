@@ -100,13 +100,9 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
   <div align= "center">\/</div>
 
   <h3 align= "center">Analysis of tags</h3>
-  <center>
-        <ul align= "center">
-            <li align= "center">Item 1</li>
-            <li align= "center">Item 2</li>
-            <li align= "center">Item 3</li>
-        </ul>
-    </center>
+  <h5 align= "center"> - item 1</h5>
+  <h5 align= "center"> - item 2</h5>
+  <h5 align= "center"> - item 3</h5>
 
   <div align= "center">|</div>
   <div align= "center">|</div>
