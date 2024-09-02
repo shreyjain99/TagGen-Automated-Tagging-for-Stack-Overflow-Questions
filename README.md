@@ -111,21 +111,21 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
   <div align= "center">\/</div>
 
   <h3 align= "center">Data Preprocessing (Natural Language Processing)</h3>
-  <h5 align= "center"> - Separate out code-snippets from Body </h5>
-  <h5 align= "center"> - Remove Spcial characters from Question title and description </h5>
-  <h5 align= "center"> - Remove stop words (Except 'C') </h5>
-  <h5 align= "center"> - Convert all the characters into small letters </h5>
-  <h5 align= "center"> - Use SnowballStemmer to stem the words </h5>
+  <p align= "center"><em> - Separate out code-snippets from Body </em></p>
+  <p align= "center"><em> - Remove Spcial characters from Question title and description </em></p>
+  <p align= "center"><em> - Remove stop words (Except 'C') </em></p>
+  <p align= "center"><em> - Convert all the characters into small letters </em></p>
+  <p align= "center"><em> - Use SnowballStemmer to stem the words </em></p>
 
   <div align= "center">|</div>
   <div align= "center">|</div>
   <div align= "center">\/</div>
 
   <h3 align= "center">Machine Learning Models</h3>
-  <h5 align= "center"> - Converting tags for multilabel problems  </h5>
-  <h5 align= "center"> - Split the data into test and train (80:20)  </h5>
-  <h5 align= "center"> - Featurizing data (TFIDF FEATURES) </h5>
-  <h5 align= "center"> - Applying Logistic Regression with OneVsRest Classifier </h5>
+  <p align= "center"><em> - Converting tags for multilabel problems </em></p>
+  <p align= "center"><em>- Split the data into test and train (80:20)  </em></p>
+  <p align= "center"><em> - Featurizing data (TFIDF FEATURES) </em></p>
+  <p align= "center"><em> - Applying Logistic Regression with OneVsRest Classifier</em></p>
 
 
   
