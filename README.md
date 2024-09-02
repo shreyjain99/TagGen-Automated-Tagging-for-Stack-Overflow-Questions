@@ -68,8 +68,10 @@ Dataset contains 6,034,195 rows. The columns in the table are:<br />
 <p>
 <strong>ML Problem Formulation :</strong>
 </p>
-<p><b><u> Time-series forecasting and Regression</u></b></p>
--<i> To find number of pickups, given location cordinates(latitude and longitude) and time, in the query reigion and surrounding regions therefore we predict number of pickups accurately as possible for each region in a 10 min interval.</i> (we would be using data collected in Jan - Mar 2015 to predict the pickups in Jan - Mar 2016.)
+-<i> <p> It is a multi-label classification problem  <br>
+<b>Multi-label Classification</b>: Multilabel classification assigns to each sample a set of target labels. This can be thought as predicting properties of a data-point that are not mutually exclusive, such as topics that are relevant for a document. A question on Stackoverflow might be about any of C, Pointers, FileIO and/or memory-management at the same time or none of these. <br>
+Credit: http://scikit-learn.org/stable/modules/multiclass.html
+</p>
 
 <br>
 <br>
