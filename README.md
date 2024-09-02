@@ -100,11 +100,11 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
   <div align= "center">\/</div>
 
   <h3 align= "center"><strong>Analysis of tags</strong></h3>
-  <h5 align= "center"> - Total number of unique tags </h5>
-  <h5 align= "center"> - Number of times a tag appeared </h5>
-  <h5 align= "center"> - Tags Per Question </h5>
-  <h5 align= "center"> - Most Frequent Tags </h5>
-  <h5 align= "center"> - The top 20 tags </h5>
+  <h5 align= "center"><em> - Total number of unique tags </em></h5>
+  <h5 align= "center"><em> - Number of times a tag appeared </em></h5>
+  <h5 align= "center"><em> - Tags Per Question </em></h5>
+  <h5 align= "center"><em> - Most Frequent Tags </em></h5>
+  <h5 align= "center"><em> - The top 20 tags </em></h5>
 
   <div align= "center">|</div>
   <div align= "center">|</div>
