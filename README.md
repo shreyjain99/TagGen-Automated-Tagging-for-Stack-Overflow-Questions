@@ -92,6 +92,8 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
 <body>
 
   <h3>Flow of Project</h3>
+  
+  <br>
 
   <h3 align= "center"><strong>Data Loading</strong></h3>
 
