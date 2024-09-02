@@ -93,7 +93,7 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
 
   <h3>Flow of Project</h3>
 
-  <p>↓</p>
+  <p style="text-align:center">↓</p>
   
 
 
