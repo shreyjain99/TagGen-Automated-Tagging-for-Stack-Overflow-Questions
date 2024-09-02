@@ -91,7 +91,7 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
 
 <body>
 
-  <h3>Flow of Project</h3>
+  <h3>Flow of Project : </h3>
   
   <br>
 
