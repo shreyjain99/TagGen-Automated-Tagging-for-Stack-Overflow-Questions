@@ -111,21 +111,21 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
   <div align= "center">\/</div>
 
   <h3 align= "center">Data Preprocessing (Natural Language Processing)</h3>
-  <p align= "center"><em> - Separate out code-snippets from Body </em></p>
-  <p align= "center"><em> - Remove Spcial characters from Question title and description </em></p>
-  <p align= "center"><em> - Remove stop words (Except 'C') </em></p>
-  <p align= "center"><em> - Convert all the characters into small letters </em></p>
-  <p align= "center"><em> - Use SnowballStemmer to stem the words </em></p>
+  <p align= "center"><em> - Separated out code-snippets from Body </em></p>
+  <p align= "center"><em> - Removed Special characters from Question title and description </em></p>
+  <p align= "center"><em> - Removed stop words (Except 'C') </em></p>
+  <p align= "center"><em> - Converted all the characters into small letters </em></p>
+  <p align= "center"><em> - Used SnowballStemmer to stem the words </em></p>
 
   <div align= "center">|</div>
   <div align= "center">|</div>
   <div align= "center">\/</div>
 
   <h3 align= "center">Machine Learning Models</h3>
-  <p align= "center"><em> - Converting tags for multilabel problems </em></p>
-  <p align= "center"><em>- Split the data into test and train (80:20)  </em></p>
-  <p align= "center"><em> - Featurizing data (TFIDF FEATURES) </em></p>
-  <p align= "center"><em> - Applying Logistic Regression with OneVsRest Classifier</em></p>
+  <p align= "center"><em> - Converted tags for multilabel problems </em></p>
+  <p align= "center"><em>- Splited the data into test and train (80:20)  </em></p>
+  <p align= "center"><em> - Featurized data (TFIDF FEATURES) </em></p>
+  <p align= "center"><em> - Applyied Logistic Regression with OneVsRest Classifier</em></p>
 
 
   
