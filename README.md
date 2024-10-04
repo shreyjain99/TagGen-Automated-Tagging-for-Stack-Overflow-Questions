@@ -150,3 +150,23 @@ Credit: http://scikit-learn.org/stable/modules/multiclass.html
 </ol>
 
 <hr width="100%" size="2">
+<br>
+
+<p>
+<strong>Skills and Software Tools Used in the Project :</strong>
+</p>
+<ul>
+    <li>Data Analysis</li>
+    <li>Natural Language Processing (NLP)</li>
+    <li>Multi-label Classification</li>
+    <li>Text Preprocessing</li>
+    <li>Feature Engineering (TF-IDF)</li>
+    <li>Logistic Regression</li>
+    <li>OneVsRest Classifier</li>
+    <li>Python</li>
+    <li>Pandas</li>
+    <li>NumPy</li>
+    <li>Scikit-learn</li>
+</ul>
+
+<hr width="100%" size="2">
